@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://olivicky.github.io/olivito
+> https://olivicky.github.io
 
 
 ## Features 📋
